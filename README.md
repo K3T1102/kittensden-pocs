@@ -20,6 +20,7 @@ EDR Evasion:
 
 - `🟢` [Resolução dinâmica de funções](https://kittens-den.gitbook.io/kittens-den/malware/edr-evasion/resolucao-dinamica-de-funcoes-da-windows-api-via-loadlibrarya-e-getprocaddress)
 - `🟢` [PEB Walking](https://kittens-den.gitbook.io/kittens-den/malware/edr-evasion/peb-walking)
+- `🟢` [HellsGate](https://kittens-den.gitbook.io/kittens-den/malware/edr-evasion/hells-gate)
 - ...
 
 ## `🫂` Contribuições
